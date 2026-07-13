@@ -1,1 +1,3 @@
-# Player-Tsu.github.io
+# Server Info
+The uhh.
+hurbert.sytes.net
